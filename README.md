@@ -1,1 +1,3 @@
 # CU-Public-Arts-GUI-Project-
+
+This application was developed with my classmates, Samuel Liu, and Li Zeng. It was created for a class on interactive tangibles and UI design in collaboration with members the Clemson University arts department who provided much of the material used including images and audio. The application is meant to be run on a dual-touchscreen setup but can be tested with a single monitor. It also contains functionality for a physical knob device which is to be placed on the touchscreen to zoom in/out of the map display. However, a mouse scroll wheel will perform the same function.
